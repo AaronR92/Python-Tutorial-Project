@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'bbmysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'D:\\All Projects\\Databases\\Django.db',
+        'NAME': 'A:\\Database\\DjangoTest.db',
     }
 }
 

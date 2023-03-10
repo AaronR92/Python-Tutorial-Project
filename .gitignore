@@ -41,6 +41,12 @@ media
 
 # IntelliJ
 out/
+/.idea/dataSources.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/Python-Tutorial-Project.iml
+/.idea/vcs.xml
 
 # JIRA plugin
 atlassian-ide-plugin.xml
