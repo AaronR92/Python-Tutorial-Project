@@ -1,0 +1,8 @@
+li a {
+    color: forestgreen;
+    list-style-type: none;
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
